@@ -52,6 +52,5 @@ The objective is to identify patterns and insights that may explain why some cus
 This EDA-based analysis helped uncover high-risk customer segments, enabling banks to strategize better retention campaigns.
 
 ## 🙋‍♂️ Author
-Fathima Shahanas
-Student | Data Enthusiast
-Course: Data Science Toolbox with Python (INT375)
+#### Fathima Shahanas
+
